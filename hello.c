@@ -7,6 +7,6 @@ int add(int a, int b) {
 int main(void) {
 	printf("Hello, Github！I am learning Git.\n");
 	printf("This is my second commit.\n");
-	printf("1 + 2 = %d/n",  add(1, 2));
+	printf("1 + 2 = %d\n",  add(1, 2));
      return 0:
 }
