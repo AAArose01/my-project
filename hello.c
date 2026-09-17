@@ -7,6 +7,7 @@ int add(int a, int b) {
 int main(void) {
 	printf("Hello, Github！I am learning Git.\n");
 	printf("This is edited locally.\n");
+	printf("This is edited on Github.\n");
 	printf("1 + 2 = %d\n",  add(1, 2));
      return 0:
 }
